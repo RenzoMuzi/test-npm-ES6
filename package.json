@@ -1,5 +1,5 @@
 {
-  "name": "common-lib",
+  "name": "common-lib-renzo",
   "version": "1.0.0",
   "description": "Common lib for PW CDN's developers.",
   "main": "./dist/index.js",
